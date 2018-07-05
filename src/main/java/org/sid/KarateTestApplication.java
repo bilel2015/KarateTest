@@ -10,4 +10,3 @@ public class KarateTestApplication {
 		SpringApplication.run(KarateTestApplication.class, args);
 	}
 }
-
