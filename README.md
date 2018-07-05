@@ -1,2 +1,2 @@
 # KarateTest
-Karate Test Tool – Basic API Testing Test
+Karate Test Tool – Basic API Testing
